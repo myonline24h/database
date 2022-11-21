@@ -1,4 +1,4 @@
-module elearning.com/database
+module github.com/myonline24h/database
 
 go 1.19
 
